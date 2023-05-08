@@ -4,8 +4,8 @@ Hi there 👀
 
 Introduce of myself 🌱
 - 🧑🏻‍💻 Working on Yonsei Univ. ME student
-- 📫 three0330@naver.com
-- 📫 beomjun0330@gmail.com
+- 📫 three0330@naver.com / beomjun0330@gmail.com
+
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <br>
