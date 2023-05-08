@@ -3,7 +3,7 @@
 Hi there 👀
 
 Introduce of myself 🌱
-- 🧑🏻‍💻 Working on Yonsei Univ. ME student
+- 🧑🏻‍💻 Studying at Yonsei Univ. ME student
 - 📫 three0330@naver.com / beomjun0330@gmail.com
 
 
