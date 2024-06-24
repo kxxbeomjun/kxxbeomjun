@@ -4,7 +4,7 @@ Hi there 👀
 
 Introduce of myself 🌱
 - 🧑🏻‍💻 Studying at Yonsei Univ. M.E. student
-- 📫 three0330@naver.com / beomjun0330@gmail.com
+- 📫 kbj@yonsei.ac.kr
 
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
