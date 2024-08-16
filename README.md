@@ -1,10 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋&fontSize=90)
 
-Hi there 👀
+## Hi there, I'm Beomjun Kim 👀
 
-Introduce of myself 🌱
-- 🧑🏻‍💻 Studying at Yonsei Univ. M.E. student
-- 📫 kbj@yonsei.ac.kr
+<h3 align="left">📖Education </h3>
+
+* **Yonsei University**, Seoul, South Korea
+    * **M.S. Candidate** in [CILAB](https://cilab.yonsei.ac.kr/), [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do) (2024.3~)
+
+* **Yonsei University**, Seoul, South Korea
+    * **B.S.** in [Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do) (2017.3~2024.2)
+
+<br>
+
+### I'm Interest in   
+🔎 **Autonomous Driving**<br>
+🔎 **Camera, LiDAR Semantic Segmentation**<br>
+🔎 **Deep Learning, Computer Vision**<br>
 
 
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
