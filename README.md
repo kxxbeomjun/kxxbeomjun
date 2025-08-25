@@ -65,8 +65,8 @@
 ---
 
 ## 📌 Highlights
-- Building **BEV-centric** perception models with **temporal attention** and **uncertainty estimation**.  
-- Exploring **TA-based Knowledge Distillation** bridging Camera-only students and LiDAR–Camera fusion teachers.  
+- Developing **BEV-centric perception models** that leverage **TA-based Knowledge Distillation** to bridge the **representation gap** between Camera-only students and LiDAR–Camera fusion teachers.
+- Exploring **World model-based temporal fusion** method for autonomous driving.
 - Reproducible pipelines with version-pinned dependencies (MMCV/MMDet/MMDet3D, ME, nuScenes-devkit).
 
 ---
