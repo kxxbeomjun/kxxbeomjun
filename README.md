@@ -1,27 +1,82 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋&fontSize=90)
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Beomjun%20Kim&fontSize=48&fontAlign=50&fontAlignY=35&animation=twinkling" alt="header"/>
+</p>
 
-## Hi there, I'm Beomjun Kim 👀
+<h2 align="center">👋 Hi, I'm Beomjun Kim</h2>
+<p align="center">
+  <em>M.S. Candidate @ Yonsei University (CILAB), focusing on Autonomous Driving Perception</em>
+</p>
 
-<h3 align="left">📖Education </h3>
+<p align="center">
+  <a href="https://github.com/kbj123"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="https://cilab.yonsei.ac.kr/"><img alt="CILAB" src="https://img.shields.io/badge/CILAB-Yonsei-blue"></a>
+  <a href="https://www.linkedin.com/in/beomjun-kim-profile/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
+</p>
 
-* **Yonsei University**, Seoul, South Korea
-    * **M.S. Candidate** in [CILAB](https://cilab.yonsei.ac.kr/), [Mobility System Engineering](https://vce.yonsei.ac.kr/vce/index.do) (2024.3~)
+---
 
-* **Yonsei University**, Seoul, South Korea
-    * **B.S.** in [Mechanical Engineering](https://me.yonsei.ac.kr/me/index.do) (2017.3~2024.2)
+## 🎯 Research Interests
+1. **Autonomous Driving**  
+2. **Bird’s-Eye-View (BEV) Networks, Knowledge Distillation, Camera–LiDAR Fusion**  
+3. **Computer Vision (CS)**  
 
-<br>
+> Recent Interest: World model based temporal fusion, BEV map segmentation, Gaussian-based representations.
 
-### I'm Interest in   
-🔎 **Autonomous Driving**<br>
-🔎 **Camera, LiDAR Semantic Segmentation**<br>
-🔎 **Deep Learning, Computer Vision**<br>
+---
 
+## 🎓 Education
+- **Yonsei University**, Seoul, South Korea  
+  - **M.S. Candidate**, <a href="https://cilab.yonsei.ac.kr/">CILAB</a>, <a href="https://vce.yonsei.ac.kr/vce/index.do">Mobility System Engineering</a> (2024.03 – Present)  
+- **Yonsei University**, Seoul, South Korea  
+  - **B.S.**, <a href="https://me.yonsei.ac.kr/me/index.do">Mechanical Engineering</a> (2017.03 – 2024.02)
 
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GITHUB&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&logo=Windows 11&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-<br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+---
+
+## 🛠️ Tech Stack
+**Core**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E.svg?logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white"/>
+</p>
+
+**3D / Perception Toolchain**  
+<p>
+  <img src="https://img.shields.io/badge/MMDetection-2.x-orange"/>
+  <img src="https://img.shields.io/badge/MMDetection3D-1.x-orange"/>
+  <img src="https://img.shields.io/badge/MMCV-1.x-informational"/>
+  <img src="https://img.shields.io/badge/nuScenes-devkit-blue"/>
+  <img src="https://img.shields.io/badge/MinkowskiEngine-NVIDIA-76B900"/>
+</p>
+
+**Platforms**  
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?logo=windows11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000.svg?logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?logo=googledrive&logoColor=white"/>
+</p>
+---
+
+## 📌 Highlights
+- Building **BEV-centric** perception models with **temporal attention** and **uncertainty estimation**.  
+- Exploring **TA-based Knowledge Distillation** bridging Camera-only students and LiDAR–Camera fusion teachers.  
+- Reproducible pipelines with version-pinned dependencies (MMCV/MMDet/MMDet3D, ME, nuScenes-devkit).
+
+---
+
+## 📫 Contact
+- Email: kbj@yonsei.ac.kr
+- Lab: <a href="https://cilab.yonsei.ac.kr/">CILAB @ Yonsei</a>
+
+---
+
+<p align="center">
+  <sub>Last updated: <!-- date -->2025-08</sub>
+</p>
