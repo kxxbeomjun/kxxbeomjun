@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kbj123"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="https://github.com/kxxbeomjun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
   <a href="https://cilab.yonsei.ac.kr/"><img alt="CILAB" src="https://img.shields.io/badge/CILAB-Yonsei-blue"></a>
   <a href="https://www.linkedin.com/in/beomjun-kim-profile/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
   <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
