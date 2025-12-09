@@ -19,7 +19,7 @@
 
 ## 🎯 Research Interests
 1. **Autonomous Driving**  
-2. **Bird’s-Eye-View (BEV) Networks, Knowledge Distillation, LiDAR-Camera Fusion**  
+2. **Bird’s Eye View (BEV) Networks, Knowledge Distillation, LiDAR-Camera Fusion**  
 3. **Computer Vision (CV)**  
 
 > Recent Interest: World model based temporal fusion, BEV map segmentation, Gaussian-based representations.
