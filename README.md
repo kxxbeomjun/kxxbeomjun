@@ -5,7 +5,7 @@
 
 <h2 align="center">👋 Hi, I'm Beomjun Kim</h2>
 <p align="center">
-  <em>M.S. Candidate @ Yonsei University (CILAB), focusing on Autonomous Driving Perception</em>
+  <em>Research Engineer @ Hyundai Motor Company, focusing on Autonomous Driving</em>
 </p>
 
 <p align="center">
