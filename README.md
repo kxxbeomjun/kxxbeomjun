@@ -28,9 +28,15 @@
 
 ## 🎓 Education
 - **Yonsei University**, Seoul, South Korea  
-  - **M.S. Candidate** , <a href="https://cilab.yonsei.ac.kr/">CILAB</a>, <a href="https://vce.yonsei.ac.kr/vce/index.do">Mobility System Engineering</a> (2024.03 – Present)  
+  - **M.S. Candidate** , <a href="https://cilab.yonsei.ac.kr/">CILAB</a>, <a href="https://vce.yonsei.ac.kr/vce/index.do">Mobility System Engineering</a> (2024.03 – 2026.02)  
 - **Yonsei University**, Seoul, South Korea  
   - **B.S.** , <a href="https://me.yonsei.ac.kr/me/index.do">Mechanical Engineering</a> (2017.03 – 2024.02)
+
+---
+
+## 🚀 Careers
+
+- **Research Engineer** at <a href="https://www.hyundaimotorgroup.com/en/main/mainRecommend/">Hyundai Motor Group</a> (2026.1 ~ Current)
 
 ---
 
