@@ -28,7 +28,7 @@
 
 ## 🎓 Education
 - **Yonsei University**, Seoul, South Korea  
-  - **M.S. Candidate** , <a href="https://cilab.yonsei.ac.kr/">CILAB</a>, <a href="https://vce.yonsei.ac.kr/vce/index.do">Mobility System Engineering</a> (2024.03 – 2026.02)  
+  - **M.S.** , <a href="https://cilab.yonsei.ac.kr/">CILAB</a>, <a href="https://vce.yonsei.ac.kr/vce/index.do">Mobility System Engineering</a> (2024.03 – 2026.02)  
 - **Yonsei University**, Seoul, South Korea  
   - **B.S.** , <a href="https://me.yonsei.ac.kr/me/index.do">Mechanical Engineering</a> (2017.03 – 2024.02)
 
@@ -58,23 +58,6 @@
   <img src="https://img.shields.io/badge/nuScenes-devkit-blue"/>
   <img src="https://img.shields.io/badge/MinkowskiEngine-NVIDIA-76B900"/>
 </p>
-
-**Platforms**  
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000.svg?logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?logo=googledrive&logoColor=white"/>
-</p>
----
-
-## 📌 Highlights
-- Developing **BEV-centric perception models** that leverage **TA-based Knowledge Distillation** to bridge the **representation gap** between Camera-only students and LiDAR–Camera fusion teachers.
-- Exploring **World model-based temporal fusion** method for autonomous driving.
-- Reproducible pipelines with version-pinned dependencies (MMCV/MMDet/MMDet3D, ME, nuScenes-devkit).
-
 ---
 
 ## 📫 Contact
